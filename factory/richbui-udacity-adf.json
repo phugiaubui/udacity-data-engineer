@@ -1,0 +1,9 @@
+{
+	"name": "richbui-udacity-adf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "47e9a7fc-083a-46ee-9dc5-306f62cc3a1f",
+		"tenantId": "dd1a0715-975c-4e26-abee-68290eec4133"
+	}
+}
